@@ -1,4 +1,2 @@
 # my-nvim-config
-This is my nvim config LOL :D
-
-Hello all, enjoy my configuration files :kissing_heart:
+Hello all, enjoy my in progress configuration files for NeoVim! :kissing_heart:
