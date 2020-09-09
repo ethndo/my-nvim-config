@@ -11,4 +11,4 @@ Hello all, enjoy my in progress configuration files for NeoVim! :kissing_heart:
 - Start Screen
 
 ## To Do
-- [] Make it easier to install my configuration files 
+- [ ] Make it easier to install my configuration files 
